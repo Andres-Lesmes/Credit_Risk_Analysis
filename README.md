@@ -18,7 +18,7 @@ The SMOTEEN has a balanced accuracy score of about . The high risk precision is 
 <img width="710" alt="BalancedRandomForestClassifier" src="https://user-images.githubusercontent.com/68616522/100560396-a1b48900-3283-11eb-92ba-f7f334064d4b.png">
 The Balanced Random Forest Classifier has a balanced accuracy score of about . The high risk precision is with a sensitivity of . The low risk precision is with a sensitivity of
 
-<img width="716" alt="EasyEnsembleClassifier" src="https://user-images.githubusercontent.com/68616522/100560398-a2e5b600-3283-11eb-8351-2e8487328b56.png">
+<img width="714" alt="EasyEnsembleClassifier" src="https://user-images.githubusercontent.com/68616522/100562348-6e74f880-3289-11eb-9d9d-cfe7189d9340.png">
 The Easy Ensemble Classifier has a balanced accuracy score of about . The high risk precision is with a sensitivity of . The low risk precision is with a sensitivity of
 
 ## Summary

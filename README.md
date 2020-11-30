@@ -22,3 +22,4 @@ The Balanced Random Forest Classifier has a balanced accuracy score of about 79%
 The Easy Ensemble Classifier has a balanced accuracy score of about 93%. The high risk precision is 9% with a sensitivity of 92%. The low risk precision is 100% with a sensitivity of 94%.
 
 ## Summary
+After comparing these 6 models I recommend using the Easy Ensemble Classifier since it is the one that give us the best balanced accuracy score (93%). Eventhough, it is the one with the best precission to predict high risk; I do recommend not to use this model in order to predict high risk loans since its precision for it is just 4%. The model should be used to predict low risk loans in order to approve loans.
